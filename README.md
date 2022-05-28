@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm AsiQul</h1>
-<h3 align="center">A backend developer from bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asiq-dev" /> </p>
 
