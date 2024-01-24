@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [Point of Sale](https://github.com/Dots-Valley/simple-pos) -->
 
-- 🌱 I’m currently learning **Pyhton | Django | Js**
+- 🌱 I’m currently learning **Python | Django | Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/asiq-dev](https://github.com/asiq-dev)
 
