@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/asiq-dev](https://github.com/asiq-dev)
 
-- 💬 Ask me about **Pyhton**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **asiq.dev@gmail.com**
 
