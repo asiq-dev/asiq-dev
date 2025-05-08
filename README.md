@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="asiq-dev" /> </p>
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hevalhazalkurt/count.svg" />
+  <img src="https://profile-counter.glitch.me/asiq-dev/count.svg" />
 </p>
 
 <!-- - 🔭 I’m currently working on [Point of Sale](https://github.com/Dots-Valley/simple-pos) -->
